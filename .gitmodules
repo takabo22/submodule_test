@@ -1,3 +1,6 @@
 [submodule "hello"]
 	path = hello
 	url = https://github.com/takabo22/hello.git
+[submodule "sample22"]
+	path = sample22
+	url = https://github.com/takabo22/sample22.git
