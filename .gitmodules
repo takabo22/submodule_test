@@ -4,3 +4,6 @@
 [submodule "sample22"]
 	path = sample22
 	url = https://github.com/takabo22/sample22.git
+[submodule "reoreo"]
+	path = reoreo
+	url = https://github.com/takabo22/reoreo.git
